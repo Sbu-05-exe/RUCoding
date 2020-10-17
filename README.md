@@ -1,6 +1,6 @@
 # RUCoding
 
-## Routinary :eyes:
+## Routinary :eyes: :thumbsup:
 
 - Sbu-05-exe
 - mattkirk25
